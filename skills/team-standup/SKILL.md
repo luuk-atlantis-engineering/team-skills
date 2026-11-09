@@ -8,7 +8,7 @@ argument-hint: "[wrap]"
 
 Mode: **$ARGUMENTS**
 
-An empty mode (or one that still reads `$ARGUMENTS`) means the morning standup. `wrap` means the evening wrap.
+`wrap` means the evening wrap. Anything else (an empty mode, or a placeholder) means the morning standup.
 
 Run this in the coordinator's session (see the `team-coordinator` skill). If this session isn't the coordinator, say
 so and stop: the standup needs the board, the notebooks and the right to brief the workers.

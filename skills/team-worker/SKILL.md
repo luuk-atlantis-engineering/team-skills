@@ -14,9 +14,9 @@ others' work and never surprise anyone.
 
 Your name: **$ARGUMENTS**
 
-- **If no name is given** (the line above is empty or still reads `$ARGUMENTS`, and the user's message doesn't name
-  you), ask the user which name you have on the team before you do anything else, and wait. If you can find the
-  board, list the names on it.
+- **If the line above shows no name** (it's empty, or shows a placeholder instead of a name) and the user's message
+  doesn't name you either, ask the user which name you have on the team before you do anything else, and wait. If you
+  can find the board, list the names on it.
 - **Your name is your identity,** for example rex. The session is only where you run today. Use names, yours and your
   teammates', in messages and on the board.
 - **If another live session already has your name,** tell the user before you take over. A name runs in one session
